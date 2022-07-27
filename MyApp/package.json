@@ -1,6 +1,14 @@
 {
   "name": "info_countries",
   "version": "0.0.1",
+  "description": "Information about countries like ,countries,flags,currency,region and more.",
+  "keywords": [
+    "countries",
+    "flags",
+    "currency",
+    "region"
+  ],
+  "author": "devrimfurkan",
   "scripts": {
     "android": "react-native run-android",
     "ios": "react-native run-ios",
